@@ -1,0 +1,46 @@
+{
+  "tracks": [
+    {
+      "title": "Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals",
+      "provider": "Microsoft"
+    },
+    {
+      "title": "Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate",
+      "url": "https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate",
+      "provider": "Google Cloud"
+    },
+    {
+      "title": "DevOps and AI on AWS Specialization",
+      "url": "https://www.coursera.org/specializations/devops-ai-aws",
+      "provider": "AWS"
+    },
+    {
+      "title": "Building AI Cloud Apps with Microsoft Azure Specialization",
+      "url": "https://www.coursera.org/specializations/building-ai-cloud-apps-microsoft-azure",
+      "provider": "Microsoft"
+    },
+    {
+      "title": "Self-Driving Cars Specialization",
+      "url": "https://www.coursera.org/specializations/self-driving-cars?#courses",
+      "provider": "University of Toronto"
+    },
+    {
+      "title": "Machine Learning for Trading",
+      "url": "https://www.coursera.org/specializations/machine-learning-trading",
+      "provider": "Google Cloud"
+    }
+  ],
+  "resources": [
+    {
+      "title": "nanochat: Build a Tiny LLM Chatbot (Karpathy)",
+      "url": "https://github.com/karpathy/nanochat",
+      "type": "GitHub Project"
+    },
+    {
+      "title": "Build a Deepseek Model From Scratch (Manning)",
+      "url": "https://www.manning.com/books/build-a-deepseek-model-from-scratch",
+      "type": "Book"
+    }
+  ]
+}
