@@ -1,0 +1,30 @@
+     2 -- static web site published to Github Pages
+     3 -- create a fancy page about below rules and classes
+     4 -- Learning Tracks:
+     5 -
+     6 -规则：学习AI，每日一百字学习笔记，或者每人5元红包
+     7 -
+     8 -推荐教材
+     9 -
+    10 -Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization
+    11 -https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals
+    12 -
+    13 -Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
+    14 -https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-pr
+        ofessional-certificate
+    15 -
+    16 -DevOps and AI on AWS Specialization
+    17 -https://www.coursera.org/specializations/devops-ai-aws
+    18 -
+    19 -Building AI Cloud Apps with Microsoft Azure Specialization
+    20 -https://www.coursera.org/specializations/building-ai-cloud-apps-microsoft-azure
+    21 -
+    22 -Self-Driving Cars Specialization
+    23 -https://www.coursera.org/specializations/self-driving-cars?#courses
+    24 -
+    25 -Machine Learning for Trading
+    26 -https://www.coursera.org/specializations/machine-learning-trading
+    27 -
+    28 -https://github.com/karpathy/nanochat
+    29 -
+    30 -https://www.manning.com/books/build-a-deepseek-model-from-scratch
